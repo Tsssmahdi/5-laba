@@ -1,0 +1,17 @@
+html, body{
+    margin: 0;
+    max-width: 90%;
+    max-height: 90%;
+}
+
+body{
+    background-color: orange;
+    margin-top: 5%;
+    margin-left: 10%;
+
+}
+
+.card{
+    height: auto;
+    width: 210px;
+}
